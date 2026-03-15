@@ -1,0 +1,70 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tslateman",
+  "description": "Plugins for AI-assisted development — orchestration, quality, context, and tooling",
+  "owner": {
+    "name": "Tim Slater"
+  },
+  "plugins": [
+    {
+      "name": "duet",
+      "description": "Reflection, code quality, writing, and design — 14 framework-grounded skills",
+      "version": "0.1.2",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tslateman/duet.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/tslateman/duet",
+      "tags": ["review", "debugging", "testing", "design", "prose", "adr"]
+    },
+    {
+      "name": "bach",
+      "description": "Two-tier agent orchestration — Manager decomposes, Workers execute",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tslateman/bach.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/tslateman/bach",
+      "tags": ["orchestration", "agents", "delegation", "workers"]
+    },
+    {
+      "name": "flow",
+      "description": "Structured task orchestration with milestones, phases, and parallel execution",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tslateman/flow.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/tslateman/flow",
+      "tags": ["orchestration", "milestones", "phases", "planning"]
+    },
+    {
+      "name": "lore",
+      "description": "Explicit context management for multi-agent systems — decisions, patterns, failures",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tslateman/lore.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/tslateman/lore",
+      "tags": ["memory", "context", "decisions", "patterns", "session"]
+    },
+    {
+      "name": "cmux-claude-code",
+      "description": "cmux sidebar status, tool progress, and notifications for Claude Code sessions",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tslateman/cmux-claude-code.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/tslateman/cmux-claude-code",
+      "tags": ["cmux", "terminal", "status", "notifications"]
+    }
+  ]
+}
