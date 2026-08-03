@@ -25,6 +25,7 @@ Install a plugin:
 | [flow](https://github.com/tslateman/flow)                         | 0.1.0   | Structured task orchestration with milestones, phases, and parallel execution       |
 | [lore](https://github.com/tslateman/lore)                         | 0.1.0   | Explicit context management for multi-agent systems — decisions, patterns, failures |
 | [cmux-claude-code](https://github.com/tslateman/cmux-claude-code) | 0.1.0   | cmux sidebar status, tool progress, and notifications for Claude Code sessions      |
+| [tempo](https://github.com/tslateman/tempo)                       | 0.1.0   | Estimate-first performance optimization for Python/Django and TypeScript/Vue        |
 
 ## License
 

@@ -65,6 +65,18 @@
       "category": "productivity",
       "homepage": "https://github.com/tslateman/cmux-claude-code",
       "tags": ["cmux", "terminal", "status", "notifications"]
+    },
+    {
+      "name": "tempo",
+      "description": "Estimate-first performance optimization for Python/Django and TypeScript/Vue",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tslateman/tempo.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/tslateman/tempo",
+      "tags": ["performance", "optimization", "profiling", "latency", "django"]
     }
   ]
 }
