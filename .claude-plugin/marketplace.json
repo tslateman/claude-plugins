@@ -3,7 +3,7 @@
   "name": "tslateman",
   "description": "Plugins for AI-assisted development — orchestration, quality, context, and tooling",
   "owner": {
-    "name": "Tim Slater"
+    "name": "Tommy Slater"
   },
   "plugins": [
     {
