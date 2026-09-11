@@ -20,7 +20,7 @@ Install a plugin:
 
 | Plugin                                                            | Version | Description                                                                         |
 | ----------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------- |
-| [duet](https://github.com/tslateman/duet)                         | 0.1.2   | Reflection, code quality, writing, and design — 14 framework-grounded skills        |
+| [duet](https://github.com/tslateman/duet)                         | 0.1.2   | Reflection, code quality, writing, and design — 27 framework-grounded skills        |
 | [bach](https://github.com/tslateman/bach)                         | 0.1.0   | Two-tier agent orchestration — Manager decomposes, Workers execute                  |
 | [flow](https://github.com/tslateman/flow)                         | 0.1.0   | Structured task orchestration with milestones, phases, and parallel execution       |
 | [lore](https://github.com/tslateman/lore)                         | 0.1.0   | Explicit context management for multi-agent systems — decisions, patterns, failures |

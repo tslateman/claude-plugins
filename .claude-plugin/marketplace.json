@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "duet",
-      "description": "Reflection, code quality, writing, and design — 14 framework-grounded skills",
+      "description": "Reflection, code quality, writing, and design — 27 framework-grounded skills",
       "version": "0.1.2",
       "source": {
         "source": "url",
