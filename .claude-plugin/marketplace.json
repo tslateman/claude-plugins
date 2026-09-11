@@ -31,18 +31,6 @@
       "tags": ["orchestration", "agents", "delegation", "workers"]
     },
     {
-      "name": "flow",
-      "description": "Structured task orchestration with milestones, phases, and parallel execution",
-      "version": "0.1.0",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/tslateman/flow.git"
-      },
-      "category": "development",
-      "homepage": "https://github.com/tslateman/flow",
-      "tags": ["orchestration", "milestones", "phases", "planning"]
-    },
-    {
       "name": "lore",
       "description": "Explicit context management for multi-agent systems — decisions, patterns, failures",
       "version": "0.1.0",
