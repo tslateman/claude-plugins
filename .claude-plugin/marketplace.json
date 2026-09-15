@@ -1,5 +1,4 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "tslateman",
   "description": "Plugins for AI-assisted development — orchestration, quality, context, and tooling",
   "owner": {
