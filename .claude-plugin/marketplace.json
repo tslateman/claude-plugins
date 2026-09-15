@@ -7,15 +7,15 @@
   },
   "plugins": [
     {
-      "name": "duet",
-      "description": "Reflection, code quality, writing, and design — 14 framework-grounded skills",
-      "version": "0.1.2",
+      "name": "tslateman-skills",
+      "description": "Coding agent skills for reviewing code, keeping it maintainable, navigating a codebase, writing and diagramming what ships, shaping what to build, and running the work around it",
+      "version": "0.6.0",
       "source": {
         "source": "url",
-        "url": "https://github.com/tslateman/duet.git"
+        "url": "https://github.com/tslateman/skills.git"
       },
       "category": "development",
-      "homepage": "https://github.com/tslateman/duet",
+      "homepage": "https://github.com/tslateman/skills",
       "tags": ["review", "debugging", "testing", "design", "prose", "adr"]
     },
     {
